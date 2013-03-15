@@ -41,7 +41,7 @@
 				<div class="section">
 					<h3>Scheduling</h3>
 					<ul>
-						<li>Choose a program from ZDC’s Repertoire and contact us today for availability.</li>
+						<li>Choose a program from ZDC’s <a href="repertoire.php">Repertoire</a> and contact us today for availability.</li>
 						<li>ZDC is also willing to minister requested pieces at special events (conferences, retreats, schools, etc.)  You may select songs from their repertoire or submit a song request to be choreographed and performed at your event.</li>
 					</ul>
 				</div>
