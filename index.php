@@ -35,11 +35,6 @@
 				<div class="slides_container">
 					<div>
 						<a href="dates.php">
-							<img src="images/encounterFeature.jpg" height="330" width="940" alt="Zion Dance Performs Encounter" title="Encounter Tour Announcement" />
-						</a>
-					</div>
-					<div>
-						<a href="dates.php">
 							<img src="images/theStoryFeature.jpg" height="330" width="940" alt="Zion Dance Performs The Story" title="The Story Tour Announcement" />
 						</a>
 					</div>
