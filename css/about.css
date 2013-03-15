@@ -1,0 +1,47 @@
+/* CSS Document */
+
+.infoCont p, .infoCont ul li{
+	font: 14px/24px Arial, Helvetica, sans-serif;
+}
+
+.infoCont ul li{
+	display: block;
+	list-style-type:square	
+}
+
+.memberBioCont{
+	float: left;
+	margin-bottom: 20px;	
+}
+
+	.nameTitleCont{
+		width: 750px;
+		display: block;
+		float: left;	
+	}
+
+		.memberName{
+			float: left;
+			margin-bottom: 4px;	
+		}
+		
+		.memberRole{
+			float: left;
+			font: bold 16px Arial, Helvetica, sans-serif !important;
+			margin: 9px 0 0 5px;	
+		}
+		
+	.picBioCont{
+		width: 750px;	
+	}
+	
+		.memberPic{
+			float: left;
+			padding: 10px 10px 0 0;
+		}
+		
+		.memberBio{		
+			font: 14px/24px Arial, Helvetica, sans-serif;
+			position: relative;
+			top: 3px;
+		}

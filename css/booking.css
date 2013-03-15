@@ -1,0 +1,19 @@
+/* CSS Document */
+p, ul{
+	font: 14px/28px Arial, Helvetica, sans-serif;	
+}
+
+.section ul{
+	margin-left: 30px;
+	width: 840px;	
+}
+
+.section ul li{
+	display: list-item !important;
+	list-style-type: disc;
+	margin: 20px 0px;
+}
+
+#info > p, .section{
+	margin-left: 50px;	
+}

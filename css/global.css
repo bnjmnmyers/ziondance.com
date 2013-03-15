@@ -1,0 +1,170 @@
+/* CSS Document */
+@import url(reset.css);
+@import url(http://fonts.googleapis.com/css?family=Denk+One);
+
+body{
+	background-color: #222222	
+}
+
+a, a:visited{
+	color: #701413;
+	font-weight: bold;	
+}
+
+h1{
+	font: 50px 'Denk One', sans-serif;
+	margin-left: 22px;
+	width: 546px;
+}
+
+h2{
+	font: 35px 'Denk One', sans-serif;
+	padding-bottom: 4px;
+	width: 286px;
+}
+
+h3{
+	color: #701413;
+	font: 24px 'Denk One', sans-serif;
+}
+
+#outterWrapper{
+	background: url(../images/background.jpg) no-repeat #FFFFFF;
+	display: table;
+	margin: 0 auto;
+	width: 990px;
+}
+
+#topBar{
+	background: url(../images/navBG.png) repeat-x;
+	float: left;
+	height: 63px;
+	margin-top: 22px;
+	width: 100%;	
+}
+
+	#logo{
+		float: left;
+		margin-left: 58px;
+	}
+	
+	#nav{
+		float: left;
+		margin: 20px 0 0 44px;	
+	}
+	
+		#nav li
+		{
+			color: #FFF;
+			float: left;
+			font: 13px 'Denk One', sans-serif;
+			margin-right: 31px;
+		}
+		
+		#nav li a{
+			color: #FFF;
+			display: block;
+			font-weight: normal;
+			height: 22px;
+			padding-top: 3px;
+			text-decoration: none;
+		}
+		
+		#socialButtons{
+			float: right;	
+		}
+
+#wrapper{
+	float: left;
+	margin-top: 51px;
+	width: 990px;	
+}
+
+	#infoTop, #info, #infoBttm{
+		float: left;
+		margin: 0 auto;
+		width: 974px;	
+	}
+	
+	#infoTop{
+		background: url(../images/infoTop.png) no-repeat;
+		height: 171px;	
+	}
+		
+		.pageTitle{
+			color: #FFF;
+			float: left;
+			margin: 54px 0 0 114px;	
+		}
+	
+	#info{
+		background: url(../images/infoTile.png) repeat-y;
+		padding-bottom: 40px;
+	}
+
+		#subNav{
+			float: left;
+			margin: 4px 0 0 50px;
+		}
+		
+			#subNav li{    
+				color: #701413;
+				margin-bottom: 4px;
+			}
+			
+				.subNavLink{
+				    cursor: pointer;
+					font: bold 12px Arial, Helvetica, sans-serif;
+					margin-left: 2px;
+					text-decoration: underline;	
+				}
+				
+					.subNavLink a:visited{
+						color: #701413;
+					}
+			
+				#subNav li span{    
+					color: #000000;
+    				font: bold 13px Arial,Helvetica,sans-serif;
+    				margin-right: 4px;
+				}
+				
+				
+		
+		.infoCont{
+			float: left;
+			margin-left: 20px;
+			width: 730px;	
+		}
+	
+	#infoBttm{
+		background: url(../images/infoBttm.png) no-repeat;
+		height: 23px;	
+	}
+
+#footer{
+	background: url(../images/footerBG.png) no-repeat;
+	float: left;
+	height: 107px;
+	margin-top: 85px;
+	width: 990px;	
+}
+
+/********************** UTILITY CLASSES **********************/
+
+.border{
+	border: 1px solid red;
+}	
+
+.error{
+	color: red;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.floatL{
+	float: left;	
+}
+
+

@@ -1,0 +1,20 @@
+/* CSS Document */
+td{
+	display: block;
+	float: left;
+	margin-right: 6px;
+	width: 140px;
+}
+
+input{
+	width: 134px;	
+}
+
+.event{
+	margin-bottom: 20px;
+}
+
+.inputRow{
+	float: left;
+	margin-bottom: 10px;	
+}

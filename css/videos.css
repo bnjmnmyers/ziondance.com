@@ -1,0 +1,18 @@
+/* CSS Document */
+#links{
+	float: left;
+	margin: 0 20px 0 50px;
+}
+
+	.videoLink{
+		color: #701413;
+		cursor: pointer;
+		font: bold 12px Arial, Helvetica, sans-serif;
+		margin-bottom:4px;
+		text-decoration: underline;	
+	}
+
+#videoCont{
+	float: left;
+	width: 700px;	
+}

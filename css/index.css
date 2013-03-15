@@ -1,0 +1,73 @@
+/* CSS Document */
+
+#slides{
+	margin: 0 auto;
+	width: 940px;	
+}
+
+	.slides_container div{
+		display: block;
+		height: 330px;
+		overflow: hidden;
+		width: 940px;	
+	}
+	
+#info{
+	background: none;
+	float: none;
+	margin: 0 auto;
+	width: 940px;	
+}
+
+	#gallery{
+		float: left;
+		margin-right: 21px;
+		width: 590px;
+	}
+	
+	#tourDates{
+		float: left;
+		width: 329px;	
+	}
+
+		.infoTitles{
+			background-color: #000;
+			height: 44px;
+			margin-top: 19px;	
+		}
+		
+		#galleryTitle, #galleryCont{
+			width: 590px;
+		}
+		
+		.infoBlock{
+			background-color: #a9a9a9;
+			float: left;
+			margin-top: 19px;	
+		}
+		
+		#tourDatesTitle, #tourDatesCont{
+			width: 329px;	
+		}
+		
+			#tour{
+				clear: both;
+				float: left;
+				margin: 7px 0 7px 14px;
+			}
+		
+				#tour p{
+					font: 14px Arial, Helvetica, sans-serif;	
+				}
+				
+				.host, .venue, .program{
+					font-weight: bold !important;	
+				}
+				
+				.venue{
+					color: #790015;	
+				}
+				
+				.date{
+					float: left;	
+				}
