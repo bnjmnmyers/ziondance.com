@@ -19,6 +19,21 @@
   <loc>http://www.ziondance.com/dates.php</loc>
 </url>
 <url>
+  <loc>http://www.ziondance.com/repertoire.php</loc>
+</url>
+<url>
+  <loc>http://www.ziondance.com/videos.php</loc>
+</url>
+<url>
+  <loc>http://www.ziondance.com/booking.php</loc>
+</url>
+<url>
   <loc>http://www.ziondance.com/contact.php</loc>
+</url>
+<url>
+  <loc>http://www.ziondance.com/repertoire.php?program=encounter</loc>
+</url>
+<url>
+  <loc>http://www.ziondance.com/repertoire.php?program=theStory</loc>
 </url>
 </urlset>
