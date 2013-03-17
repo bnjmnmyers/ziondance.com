@@ -6,7 +6,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta name="description" content="Welcome to the Home Page of Zion Dance Company. Discover what dates we will be in your area." />
+	<meta name="description" content="Welcome to the Dates Page of Zion Dance Company. Discover what dates we will be in your area." />
 	<meta name="keywords" content="dance company, zion dance company, zion dance, jefferson city tn, jefferson city, morristown tn, morristown, knoxville tn, knoxville, tennessee, dance company in jefferson city tn, dance company in knoxville tn, professional dance company, dance, company, dance troop, dance group, christian dance company, christian dance, christian, myers, moss, loveday, jones, mason, recker" />
 	<title>Zion Dance Company | Discover what dates we will be in your area - Dates</title>
 	<link rel="shortcut icon" href="http://www.ziondance.com/favicon.ico" />

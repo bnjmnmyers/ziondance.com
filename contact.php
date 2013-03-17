@@ -31,7 +31,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta name="description" content="Welcome to the Home Page of Zion Dance Company. Find out all that you need to know about our dance company located in Jefferson City, TN." />
+	<meta name="description" content="Welcome to the Contact Page of Zion Dance Company. Get into touch with Zion about having us visit your church or event." />
 	<meta name="keywords" content="dance company, zion dance company, zion dance, jefferson city tn, jefferson city, morristown tn, morristown, knoxville tn, knoxville, tennessee, dance company in jefferson city tn, dance company in knoxville tn, professional dance company, dance, company, dance troop, dance group, christian dance company, christian dance, christian, myers, moss, loveday, jones, mason, recker" />
 	<title>Zion Dance Company | Get in touch with some one for more information about ZDC - Contact</title>
 	<link rel="shortcut icon" href="http://www.ziondance.com/favicon.ico" />
