@@ -103,13 +103,13 @@
 								$postalCode = $row['postalCode'];
 								
 								echo
-								"<h3>Tour Date:".$date."</h3>
+								"<h3>Tour Date: ".$date."</h3>
 								<form method='post' action='manageDates.php?process=edit&tourID=".$tourID."'>
 									<table class='event'>
 										<tr>
 											<td>Venue Name</td>
-											<td>Host Name</td>
 											<td>Host Link</td>
+											<td>Host Name</td>
 											<td>Event</td>
 											<td>Program</td>
 										</tr>
