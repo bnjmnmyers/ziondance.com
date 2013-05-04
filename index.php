@@ -39,6 +39,7 @@
 						</a>
 					</div>
 				</div>
+						<a href="http://www.legacytheatre.us/tickets.html" target="_blank" style=";font-size:22px;position:relative;top:-70px;left:30px;">Purchase Tickets</a>
 			</div>
 			<div id="info">
 				<div id="gallery">

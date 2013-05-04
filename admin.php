@@ -26,7 +26,8 @@
 				<ul id="subNav">
 					<li><span>Select a category:</span></li>
 					<li class="subNavLink"><a href="manageDates.php">Manage Dates</a></li>
-					<li class="subNavLink">Manage Bios</li>
+					<li class="subNavLink"><a href="manageBios.php">Manage Bios</a></li>
+					<li class="subNavLink"><a href="manageVideos.php">Manage Videos</a></li>
 				</ul>
 			</div>
 			<div id="infoBttm"></div>

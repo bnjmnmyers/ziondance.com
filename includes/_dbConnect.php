@@ -10,17 +10,28 @@
 	
 		// getMemberBios
 		function getMemberBios(){
-		
 			$result = mysql_query("
 				SELECT *
 				FROM tblBiosRead
 				ORDER BY memberRole, lastname ASC
 			");
 			
-			return $result;
-			
-			mysql_close();	
-			
+			return $result;	
+		}
+		
+		//addMemberBio
+		function addMemberBio(){
+		
+		}
+		
+		//editMemberBio
+		function editMemberBio(){
+		
+		}
+		
+		//removeMemberBio
+		function removeMemberBio(){
+		
 		}
 		
 		// addTourDates
@@ -151,6 +162,21 @@
 			return $result;
 		}
 		
+		//addVideo
+		function addVideo(){
+		
+		}
+		
+		//editVideo
+		function editVideo(){
+		
+		}
+		
+		//removeVideo
+		function removeVideo(){
+		
+		}
+		
 		
 		// getFirstVideo
 		function getFirstVideo()
@@ -168,7 +194,7 @@
 		{
 			$clientUsername = $username;
 			$clientPassword = $password;
-				
+			
 			$result = mysql_query("
 				SELECT *
 				FROM tblUsersRead

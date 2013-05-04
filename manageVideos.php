@@ -3,17 +3,17 @@
 	$isLoggedIn = isLoggedIn();
 	if(isset($_REQUEST['process']) && $_REQUEST['process'] == 'add')
 	{	
-		$processMessage = addTourDates();
+		$processMessage = addVideo();
 	}
 	else if(isset($_REQUEST['process']) && $_REQUEST['process'] == 'edit')
 	{
-		$processMessage = editTourDates();	
+		$processMessage = editVideo();	
 	}
 	else if(isset($_REQUEST['process']) && $_REQUEST['process'] == 'remove')
 	{
-		$processMessage = removeTourDates();	
+		$processMessage = removeVideo();	
 	}
-	$tourDates = getTourDates();
+	$tourDates = getVideos();
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -39,9 +39,9 @@
 			<div id="info">
 				<ul id="subNav">
 					<li><span>Select a category:</span></li>
-					<li id="addDates" class="subNavLink<?php if(!isset($_REQUEST['confirm']) || $_REQUEST['confirm'] == 'add'){?> active<?php } ?>">Add Date</li>
-					<li id="editDates" class="subNavLink<?php if(isset($_REQUEST['confirm']) && $_REQUEST['confirm'] == 'edit'){?> active<?php } ?>">Edit Dates</li>
-					<li id="removeDates" class="subNavLink<?php if(isset($_REQUEST['confirm']) && $_REQUEST['confirm'] == 'remove'){?> active<?php } ?>">Remove Dates</li>
+					<li id="addDates" class="subNavLink<?php if(!isset($_REQUEST['confirm']) || $_REQUEST['confirm'] == 'add'){?> active<?php } ?>">Add Video</li>
+					<li id="editDates" class="subNavLink<?php if(isset($_REQUEST['confirm']) && $_REQUEST['confirm'] == 'edit'){?> active<?php } ?>">Edit Videos</li>
+					<li id="removeDates" class="subNavLink<?php if(isset($_REQUEST['confirm']) && $_REQUEST['confirm'] == 'remove'){?> active<?php } ?>">Remove Video</li>
 				</ul>
 				<?php 
 					if(strlen($processMessage))
