@@ -2,7 +2,7 @@
 
 	session_start();
 
-	mysql_connect("mysql51-025.wc2.dfw1.stabletransit.com", "414848_zdance", "Psalm1321314") or die();
+	mysql_connect("mysql51-025.wc2.dfw1.stabletransit.com", "414848_zAccess", "kmjami13") or die();
 	
 	if(mysql_ping())
 	{

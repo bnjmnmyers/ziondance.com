@@ -6,7 +6,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta name="description" content="Welcome to the About Page of Zion Dance Company. Learn about our mission, vision, core values and dance members." />
+	<meta name="description" content="Welcome to the About Page of Zion Dance Company. Learn about this mission, vision, core values and dance members of our christian dance company." />
 	<meta name="keywords" content="dance company, zion dance company, zion dance, jefferson city tn, jefferson city, morristown tn, morristown, knoxville tn, knoxville, tennessee, dance company in jefferson city tn, dance company in knoxville tn, professional dance company, dance, company, dance troop, dance group, christian dance company, christian dance, christian, myers, moss, loveday, jones, mason, recker" />
 	<title>Zion Dance Company | Learn all about Zion Dance Company - About</title>
 	<link rel="shortcut icon" href="http://www.ziondance.com/favicon.ico" />
@@ -35,23 +35,23 @@
 				<div id="whoWeAreCont" class="infoCont">
 					<h2>Who We Are</h2>
 					<p>
-						Zion Dance Company is an expansion of <a href="http://www.fuzionstudio.net" target="_blank">Fuzion Studio</a> located in Jefferson City, TN. Fuzion Studio opened its doors in January 2012 in their newly remodeled facility and are blessed to serve the community. They offer a wide range of dance and fitness classes for all ages.<br/><br/>
-
-Zion Dance Company has chosen to use their dance to serve the Lord and minister to others. The company was founded in the Fall of 2012. Their first touring programs include <a href="repertoire.php?program=encounter">"Encounter"</a> and <a href="repertoire.php?program=theStory">"The Story"</a>. They look forward to adding to their repertoire of productions in order to reach the widest audience and expand His kingdom. Current company members are comprised of studio directors and instructors. ZDC is the blend of six dancers who are a varied combination of ages, backgrounds, and experiences. They find that their hearts are unified in vision and purpose in their expression of worship to the Lord.<br/><br/>
+Zion Dance Company has chosen to use their dance to serve the Lord and minister to others. This christian dance company was founded in the Fall of 2012. Their first touring programs include <a href="repertoire.php?program=encounter">"Encounter"</a> and <a href="repertoire.php?program=theStory">"The Story"</a>. They look forward to adding to their repertoire of productions in order to reach the widest audience and expand His kingdom. Current company members are comprised of studio directors and instructors. ZDC is the blend of six dancers who are a varied combination of ages, backgrounds, and experiences. They find that their hearts are unified in vision and purpose in their expression of worship to the Lord.<br/><br/>
 
 It is in our heart to grow as the Lord would allow us. Our goal is to spread the word and build a strong, wide foundation for ZDC so that we can expand when the time comes. In the future, we look forward to holding auditions and interviews and creating an avenue for other dancers to use their gifts.<br/><br/>
+
+Zion Dance Company is an expansion of <a href="http://www.fuzionstudio.net" target="_blank">Fuzion Studio</a> located in Jefferson City, TN. Fuzion Studio opened its doors in January 2012 in their newly remodeled facility and are blessed to serve the community. They offer a wide range of dance and fitness classes for all ages.<br/><br/>
 					</p>
 				</div>
 				<div id="theVizionCont" class="infoCont">
 					<h2>The Vizion</h2>
 					<p>
-						  We will become a people who are wholly devoted to God and learn to love Him with all our heart, soul, mind and strength.  We will grow and mature in the talents and gifts that God has placed within each of us so that we may glorify His name. Zion Dance Company will be a place for skilled dancers, both male and female, to achieve excellence in technique in an atmosphere that values the presence of God.  We will create productions that draw the audience to the Lord.   Zion Dance Company will perform locally, nationally and internationally to expand the body of Christ as we encounter the Living God and His transforming power through the ministry of dance.<br/><br/>
+						  We will become a people who are wholly devoted to God and learn to love Him with all our heart, soul, mind and strength.  We will grow and mature in the talents and gifts that God has placed within each of us so that we may glorify His name. Zion Dance Company will be a place for skilled dancers, both male and female, to achieve excellence in technique in an atmosphere that values the presence of God.  We will create productions that draw the audience to the Lord.   This christian dance company will perform locally, nationally and internationally to expand the body of Christ as we encounter the Living God and His transforming power through the ministry of dance.<br/><br/>
 					</p>
 				</div>
 				<div id="theMissionCont" class="infoCont">
 					<h2>The Mission</h2>
 					<p>
-						The heart of Zion Dance Company is to increase, expand, and enlarge, the Kingdom of God through dance.<br/><br/>
+						As a christian dance company our heart is to increase, expand, and enlarge, the Kingdom of God through dance.<br/><br/>
 						
 						Zion: A Place or religious community regarded as sacredly devoted to God.<br/><br/>
 					"For the Lord has chosen Zion; He has desired it for His habitation, saying, ‘This is my resting place forever and ever; here I will sit enthroned, for I have desired it."
