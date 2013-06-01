@@ -9,7 +9,7 @@
 		<li><img src="images/navDivider.jpg" class="navDivider" height="23" width="2" alt="Zion Dance Company Nav Divider" title="Zion Dance Company Nav Divider" /></li>
 		<li id="navRepertoire" class="pageLink"><a href="repertoire.php">Repertoire</a></li>
 		<li><img src="images/navDivider.jpg" class="navDivider" height="23" width="2" alt="Zion Dance Company Nav Divider" title="Zion Dance Company Nav Divider" /></li>
-		<li id="navVideos" class="pageLink"><a href="videos.php">Videos</a></li>
+		<li id="navVideos" class="pageLink"><a href="gallery.php">Gallery</a></li>
 		<li><img src="images/navDivider.jpg" class="navDivider" height="23" width="2" alt="Zion Dance Company Nav Divider" title="Zion Dance Company Nav Divider" /></li>
 		<li id="navBooking" class="pageLink"><a href="booking.php">Booking</a></li>
 		<li><img src="images/navDivider.jpg" class="navDivider" height="23" width="2" alt="Zion Dance Company Nav Divider" title="Zion Dance Company Nav Divider" /></li>

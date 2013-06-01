@@ -21,7 +21,7 @@
 		<?php include 'includes/_nav.php'; ?>
 		<div id="wrapper">
 			<div id="infoTop">
-				<h1 class="pageTitle">Videos</h1>
+				<h1 class="pageTitle">Gallery</h1>
 			</div>
 			<div id="info">
 				<div id="links">
