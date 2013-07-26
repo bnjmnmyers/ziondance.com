@@ -157,6 +157,7 @@
 			$result = mysql_query("
 				SELECT *
 				FROM tblVideosRead
+				ORDER BY orderID ASC
 			");
 			
 			return $result;
@@ -183,7 +184,8 @@
 		{
 			$result = mysql_query("
 				SELECT videoLink
-				FROM tblVideosRead LIMIT 1
+				FROM tblVideosRead
+				WHERE orderID = 1
 			");
 			
 			return $result;

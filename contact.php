@@ -78,6 +78,7 @@
 						}
 					?>
 					<form method="post" action="contact.php">
+						<input type="hidden" name="honeyPot" value="" />
 						<div id="leftSide">
 							<div>
 								<label for="firstname">First Name:<span class="requiredMarker">*</span></label><br/>
@@ -120,7 +121,6 @@
 								<textarea name="comments" rows="10" cols="50"><?php echo $comments; ?></textarea>
 							</div>
 							<div id="submit">
-								<input type="hidden" name="honeyPot" />
 								<input type="submit" name="submit" value="Submit" />
 							</div>
 						</div>

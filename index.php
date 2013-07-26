@@ -35,11 +35,11 @@
 				<div class="slides_container">
 					<div>
 						<a href="dates.php">
-							<img src="images/theStoryFeature.jpg" height="330" width="940" alt="Zion Dance Performs The Story" title="The Story Tour Announcement" />
+							<img src="images/TheGreatDayBanner.jpg" height="330" width="940" alt="Zion Dance Company Performs The Story" title="The Great Day Final Pose" />
 						</a>
 					</div>
 				</div>
-						<a href="http://www.legacytheatre.us/tickets.html" target="_blank" style=";font-size:22px;position:relative;top:-70px;left:30px;">Purchase Tickets</a>
+						<!--<a href="http://www.legacytheatre.us/tickets.html" target="_blank" style="color:#FFF;font-size:22px;position:relative;top:-70px;left:30px;">Purchase Tickets</a>-->
 			</div>
 			<div id="info">
 				<div id="gallery">
@@ -47,7 +47,7 @@
 						<img src="images/galleryTitle.jpg" height="44" width="136" alt="Zion Dance Company Gallery" title="Zion Dance Company Gallery Title" />
 					</div>
 					<div id="galleryCont" class="infoBlock">
-						<img src="images/zion.jpg" height="286" width="590" alt="Zion Dance Company Rehearsal Picture" title="Zion Dance Company Works on Encounter" />
+						<img src="images/TheStoryGroupPic.jpg" height="286" width="590" alt="Zion Dance Company Team Picture" title="Zion Dance Company Team Picture" />
 					</div>
 				</div>
 				<div id="tourDates">
